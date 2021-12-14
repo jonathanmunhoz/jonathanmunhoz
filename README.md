@@ -1,7 +1,7 @@
 ## Olá, eu sou Jonathan Brito!
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=JonathanMBrito&show_icons=true&theme=midnight-purple">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanMBrito&layout=compact&theme=midnight-purple"
+<img src="https://github-readme-stats.vercel.app/api?username=jonathanmunhoz&show_icons=true&theme=midnight-purple">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanmunhoz&layout=compact&theme=midnight-purple"
 </div>
 
 <div style="display: inline block"><br>
