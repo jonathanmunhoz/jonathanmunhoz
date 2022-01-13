@@ -1,8 +1,11 @@
-## Olá, eu sou Jonathan Brito!
+## Seja bem vindo! Me chamo Jonathan Brito.
+Tenho alguns projetos próprios e clonados que utilizo para aperfeiçoar minhas habilidades no front-end.
+
 <div>
 <img height="220" width="400" src="https://github-readme-stats.vercel.app/api?username=jonathanmunhoz&show_icons=true&theme=midnight-purple">
 <img height="220" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanmunhoz&layout=compact&theme=midnight-purple"
 </div>
+
 
 <div style="display: inline block"><br>
 <img align="center" alt="Jona-Html" height="30" width="80" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
