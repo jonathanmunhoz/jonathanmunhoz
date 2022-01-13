@@ -3,7 +3,7 @@ Tenho alguns projetos próprios e clonados que utilizo para aperfeiçoar minhas 
 
 <div>
 <img height="220" width="400" src="https://github-readme-stats.vercel.app/api?username=jonathanmunhoz&show_icons=true&theme=midnight-purple">
-<img height="220" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanmunhoz&layout=compact&theme=midnight-purple"
+<img height="220" width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanmunhoz&layout=compact&langs_count=16&theme=midnight-purple"
 </div>
 
 
